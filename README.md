@@ -52,6 +52,6 @@ This project is open-source under the MIT License.
 
 ---
 
-### 📬 Contact
+###  Contact
 
 Akeem – ebony4pink@gmail.com 

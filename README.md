@@ -54,5 +54,4 @@ This project is open-source under the MIT License.
 
 ### 📬 Contact
 
-Akeem – [Your Email]  
-Inspired by Degree Analytics' mission to improve campus intelligence through data.
+Akeem – ebony4pink@gmail.com 

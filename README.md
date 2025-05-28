@@ -1,5 +1,3 @@
-# Campus-Space-Utilization-Analytics
-This notebook demonstrates how to simulate, process, and analyze facility usage data on a campus to optimize room allocations and support energy-saving decisions.
 # 📊 Campus Space Utilization Analytics
 
 This project simulates and analyzes Wi-Fi device connection data across a university campus to optimize space utilization and support energy-saving strategies.
